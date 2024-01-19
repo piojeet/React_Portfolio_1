@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/r-pro.git/static/css/main.c373c808.css",
+    "main.js": "/r-pro.git/static/js/main.ab85646c.js",
+    "static/js/787.d4aba7ab.chunk.js": "/r-pro.git/static/js/787.d4aba7ab.chunk.js",
+    "static/media/cv.pdf": "/r-pro.git/static/media/cv.1676dcdc83730930d888.pdf",
+    "static/media/me.png": "/r-pro.git/static/media/me.821ecddcb9953b46bf75.png",
+    "static/media/me-about.jpg": "/r-pro.git/static/media/me-about.fb4452e7f286d3636ef9.jpg",
+    "static/media/portfolio5.png": "/r-pro.git/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio2.jpg": "/r-pro.git/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/r-pro.git/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/r-pro.git/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/r-pro.git/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/r-pro.git/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/r-pro.git/index.html",
+    "main.c373c808.css.map": "/r-pro.git/static/css/main.c373c808.css.map",
+    "main.ab85646c.js.map": "/r-pro.git/static/js/main.ab85646c.js.map",
+    "787.d4aba7ab.chunk.js.map": "/r-pro.git/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c373c808.css",
+    "static/js/main.ab85646c.js"
+  ]
+}
