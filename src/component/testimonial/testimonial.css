@@ -1,7 +1,7 @@
 .container.testimonial__container {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 1.2rem;
+   max-width: 600px;
+   width: 100%;
+   border-radius: 2rem;
 }
 
 .client__avatar {
@@ -19,7 +19,7 @@
     padding: 2rem;
     border-radius: 2rem;
     user-select: none;
-    cursor: grab;
+    /* cursor: grab; */
 }
 
 .client__review {
@@ -32,6 +32,11 @@
 
 .swiper-pagination-clickable .swiper-pagination-bullet {
     background: var(--color-primary);
+}
+
+.swiper-pagination {
+    position: relative !important;
+    bottom: -8px !important;
 }
 
 
